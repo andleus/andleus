@@ -1,14 +1,12 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="imgs/java_logo.png" alt="Logo" width="80" height="80">
-    <img src="imgs/spring_logo.png" alt="Logo" width="80" height="80">
-    <img src="imgs/js_logo.png" alt="Logo" width="80" height="80">
-    <img src="imgs/bootstrap_logo.png" alt="Logo" width="80" height="80">
-    <img src="imgs/mongodb_logo.png" alt="Logo" width="80" height="80">
-    <img src="imgs/php_logo.png" alt="Logo" width="80" height="80">
-    <img src="imgs/vue_logo.png" alt="Logo" width="80" height="80">
-    <img src="imgs/python_logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <img src="imgs/java_logo.png" alt="Logo" width="80" height="80">
+  <img src="imgs/spring_logo.png" alt="Logo" width="80" height="80">
+  <img src="imgs/js_logo.png" alt="Logo" width="80" height="80">
+  <img src="imgs/bootstrap_logo.png" alt="Logo" width="80" height="80">
+  <img src="imgs/mongodb_logo.png" alt="Logo" width="80" height="80">
+  <img src="imgs/php_logo.png" alt="Logo" width="80" height="80">
+  <img src="imgs/vue_logo.png" alt="Logo" width="80" height="80">
+  <img src="imgs/python_logo.png" alt="Logo" width="80" height="80">
  <br/>
  
 # Andleus
